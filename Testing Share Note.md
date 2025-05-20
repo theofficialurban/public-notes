@@ -1,5 +1,5 @@
 ---
-share: "true"
+share: true
 ---
 
 
